@@ -1,0 +1,20 @@
+*{
+    background-color: #DAF7A6 ;
+}
+
+.formulario{
+    width: 300px;
+    text-align: center;
+    padding: 80px;
+}
+
+.formulario-input{
+    padding: 10px;
+    background-color: whitesmoke;
+    width: 80%;
+    border-radius: 10px;
+}
+.formulario-submit{
+    letter-spacing: 2px;
+    width: 50%;
+}
